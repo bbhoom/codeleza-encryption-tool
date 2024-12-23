@@ -1,4 +1,4 @@
-# encryption-tool
+# Cipher Vault
 
 This project mainly focuses on the development of an application program to encrypt or decrypt messages as required by the user. This program makes it convenient for users to make their own keys to encrypt their messages for secret conversations. 
 The features of the project include the ability to create user defined keys which allow one to curate one’s own languages. Users have the ability to create their own account with password protection and save their languages.
